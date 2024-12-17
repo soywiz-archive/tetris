@@ -1,0 +1,279 @@
+src\tetris.c: In function `DrawRectangleFill':
+src\tetris.c:92: warning: static declaration of 'Quit' follows non-static declaration
+src\/tetris.h:36: warning: previous declaration of 'Quit' was here
+src\tetris.c:99: warning: static declaration of 'wait_fps' follows non-static declaration
+src\/tetris.h:35: warning: previous declaration of 'wait_fps' was here
+src\tetris.c:1072: error: syntax error at end of input
+src\/gamelib/gamelib.h:29: warning: unused variable `_screen'
+src\/gamelib/gamelib.h:32: warning: unused variable `RequestExit'
+src\/gamelib/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\/gamelib/gamelib.h:34: warning: unused variable `FPS'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenWidth'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenHeight'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\/gamelib/gamelib.h:41: warning: unused variable `mouse'
+src\/tetris.h:45: warning: unused variable `image_create_game'
+src\/tetris.h:46: warning: unused variable `image_join_game'
+src\tetris.c:38: warning: unused variable `screen'
+src\tetris.c:17: warning: unused variable `server_connected_status'
+src\tetris.c:32: warning: unused variable `server'
+src\tetris.c:35: warning: unused variable `client_stopping'
+src\tetris.c:47: warning: unused variable `serverip'
+src\tetris.c:51: warning: unused variable `done'
+src\tetris_common.c: In function `DrawRectangleFill':
+src\tetris_common.c:3: warning: static declaration of 'showFadeBalls' follows non-static declaration
+src\/tetris_common.h:4: warning: previous declaration of 'showFadeBalls' was here
+src\tetris_common.c:13: error: syntax error at end of input
+src\/gamelib/gamelib.h:29: warning: unused variable `_screen'
+src\/gamelib/gamelib.h:30: warning: unused variable `key'
+src\/gamelib/gamelib.h:31: warning: unused variable `keyv'
+src\/gamelib/gamelib.h:32: warning: unused variable `RequestExit'
+src\/gamelib/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\/gamelib/gamelib.h:34: warning: unused variable `FPS'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenWidth'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenHeight'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\/gamelib/gamelib.h:41: warning: unused variable `mouse'
+src\/tetris_score.h:6: warning: unused variable `score_points'
+src\/tetris_score.h:7: warning: unused variable `score_names'
+src\/tetris.h:38: warning: unused variable `nplayers'
+src\/tetris.h:39: warning: unused variable `players'
+src\/tetris.h:40: warning: unused variable `player1'
+src\/tetris.h:42: warning: unused variable `image_single_player'
+src\/tetris.h:43: warning: unused variable `image_multi_player'
+src\/tetris.h:44: warning: unused variable `image_exit'
+src\/tetris.h:45: warning: unused variable `image_create_game'
+src\/tetris.h:46: warning: unused variable `image_join_game'
+src\/tetris.h:49: warning: unused variable `background'
+src\/tetris.h:49: warning: unused variable `border'
+src\/tetris.h:49: warning: unused variable `ilocal'
+src\/tetris.h:49: warning: unused variable `iremote'
+src\/tetris.h:49: warning: unused variable `iescape'
+src\/tetris.h:50: warning: unused variable `font1'
+src\/tetris.h:50: warning: unused variable `font2'
+src\/tetris.h:52: warning: unused variable `screen'
+src\/tetris.h:53: warning: unused variable `bgmusic'
+src\/tetris.h:53: warning: unused variable `bgmusic2'
+src\/tetris.h:54: warning: unused variable `sndrotate'
+src\/tetris.h:54: warning: unused variable `sndlines'
+src\/tetris.h:54: warning: unused variable `sndlines4'
+src\/tetris.h:54: warning: unused variable `snddown'
+src\/tetris.h:54: warning: unused variable `sndgameover'
+src\tetris_score.c: In function `DrawRectangleFill':
+src\tetris_score.c:7: warning: static declaration of 'score_load' follows non-static declaration
+src\/tetris_score.h:9: warning: previous declaration of 'score_load' was here
+src\tetris_score.c:29: warning: static declaration of 'score_save' follows non-static declaration
+src\/tetris_score.h:8: warning: previous declaration of 'score_save' was here
+src\tetris_score.c:41: warning: static declaration of 'score_submit' follows non-static declaration
+src\/tetris_score.h:11: warning: previous declaration of 'score_submit' was here
+src\tetris_score.c:58: warning: static declaration of 'score_better' follows non-static declaration
+src\/tetris_score.h:10: warning: previous declaration of 'score_better' was here
+src\tetris_score.c:64: error: syntax error at end of input
+src\/gamelib/gamelib.h:29: warning: unused variable `_screen'
+src\/gamelib/gamelib.h:30: warning: unused variable `key'
+src\/gamelib/gamelib.h:31: warning: unused variable `keyv'
+src\/gamelib/gamelib.h:32: warning: unused variable `RequestExit'
+src\/gamelib/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\/gamelib/gamelib.h:34: warning: unused variable `FPS'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenWidth'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenHeight'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\/gamelib/gamelib.h:41: warning: unused variable `mouse'
+src\/tetris.h:38: warning: unused variable `nplayers'
+src\/tetris.h:39: warning: unused variable `players'
+src\/tetris.h:40: warning: unused variable `player1'
+src\/tetris.h:42: warning: unused variable `image_single_player'
+src\/tetris.h:43: warning: unused variable `image_multi_player'
+src\/tetris.h:44: warning: unused variable `image_exit'
+src\/tetris.h:45: warning: unused variable `image_create_game'
+src\/tetris.h:46: warning: unused variable `image_join_game'
+src\/tetris.h:47: warning: unused variable `image_ball'
+src\/tetris.h:49: warning: unused variable `background'
+src\/tetris.h:49: warning: unused variable `border'
+src\/tetris.h:49: warning: unused variable `ilocal'
+src\/tetris.h:49: warning: unused variable `iremote'
+src\/tetris.h:49: warning: unused variable `iescape'
+src\/tetris.h:50: warning: unused variable `font1'
+src\/tetris.h:50: warning: unused variable `font2'
+src\/tetris.h:52: warning: unused variable `screen'
+src\/tetris.h:53: warning: unused variable `bgmusic'
+src\/tetris.h:53: warning: unused variable `bgmusic2'
+src\/tetris.h:54: warning: unused variable `sndrotate'
+src\/tetris.h:54: warning: unused variable `sndlines'
+src\/tetris.h:54: warning: unused variable `sndlines4'
+src\/tetris.h:54: warning: unused variable `snddown'
+src\/tetris.h:54: warning: unused variable `sndgameover'
+src\tetris_menu.c: In function `DrawRectangleFill':
+src\tetris_menu.c:23: warning: static declaration of 'action_clear_options' follows non-static declaration
+src\/tetris_menu.h:4: warning: previous declaration of 'action_clear_options' was here
+src\tetris_menu.c:28: warning: static declaration of 'action_add_option' follows non-static declaration
+src\/tetris_menu.h:5: warning: previous declaration of 'action_add_option' was here
+src\tetris_menu.c:63: warning: static declaration of 'action_input_text' follows non-static declaration
+src\/tetris_menu.h:6: warning: previous declaration of 'action_input_text' was here
+src\tetris_menu.c:114: warning: static declaration of 'action_select_option' follows non-static declaration
+src\/tetris_menu.h:7: warning: previous declaration of 'action_select_option' was here
+src\tetris_menu.c:221: error: syntax error at end of input
+src\/gamelib/gamelib.h:29: warning: unused variable `_screen'
+src\/gamelib/gamelib.h:31: warning: unused variable `keyv'
+src\/gamelib/gamelib.h:32: warning: unused variable `RequestExit'
+src\/gamelib/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\/gamelib/gamelib.h:34: warning: unused variable `FPS'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenWidth'
+src\/gamelib/gamelib.h:36: warning: unused variable `screenHeight'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\/gamelib/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\/gamelib/gamelib.h:41: warning: unused variable `mouse'
+src\/tetris_score.h:6: warning: unused variable `score_points'
+src\/tetris_score.h:7: warning: unused variable `score_names'
+src\/tetris.h:38: warning: unused variable `nplayers'
+src\/tetris.h:39: warning: unused variable `players'
+src\/tetris.h:40: warning: unused variable `player1'
+src\/tetris.h:43: warning: unused variable `image_multi_player'
+src\/tetris.h:44: warning: unused variable `image_exit'
+src\/tetris.h:45: warning: unused variable `image_create_game'
+src\/tetris.h:46: warning: unused variable `image_join_game'
+src\/tetris.h:47: warning: unused variable `image_ball'
+src\/tetris.h:49: warning: unused variable `border'
+src\/tetris.h:49: warning: unused variable `ilocal'
+src\/tetris.h:49: warning: unused variable `iremote'
+src\/tetris.h:52: warning: unused variable `screen'
+src\/tetris.h:53: warning: unused variable `bgmusic'
+src\/tetris.h:53: warning: unused variable `bgmusic2'
+src\/tetris.h:54: warning: unused variable `sndlines'
+src\/tetris.h:54: warning: unused variable `sndlines4'
+src\/tetris.h:54: warning: unused variable `snddown'
+src\/tetris.h:54: warning: unused variable `sndgameover'
+In file included from src\gamelib\gamelib.c:3:
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h: In function `DrawRectangleFill':
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:258: error: 'y1' redeclared as different kind of symbol
+src\gamelib\/gamelib_image.h:68: error: previous definition of 'y1' was here
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:332: error: nested function `__fpclassifyl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:353: error: nested function `__isnan' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:362: error: nested function `__isnanf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:371: error: nested function `__isnanl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:388: error: nested function `__signbit' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:394: error: nested function `__signbitf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:400: error: nested function `__signbitl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:434: error: nested function `sinhf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:438: error: nested function `coshf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:442: error: nested function `tanhf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:464: error: nested function `expf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:480: error: nested function `frexpf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:492: error: nested function `ldexpf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:522: error: nested function `logb' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:530: error: nested function `logbf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:538: error: nested function `logbl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:572: error: nested function `hypotf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:577: error: nested function `powf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:636: error: nested function `rint' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:643: error: nested function `rintf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:650: error: nested function `rintl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:657: error: nested function `lrint' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:665: error: nested function `lrintf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:673: error: nested function `lrintl' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:681: error: nested function `llrint' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:689: error: nested function `llrintf' declared `extern'
+c:/mingw/bin/../lib/gcc/mingw32/3.4.2/../../../../include/math.h:697: error: nested function `llrintl' declared `extern'
+src\gamelib\gamelib.c:42: warning: static declaration of 'GameQuit' follows non-static declaration
+src\gamelib\/gamelib.h:45: warning: previous declaration of 'GameQuit' was here
+src\gamelib\gamelib.c:46: warning: static declaration of 'GameInit' follows non-static declaration
+src\gamelib\/gamelib.h:44: warning: previous declaration of 'GameInit' was here
+src\gamelib\gamelib.c:62: warning: static declaration of 'KeyboardUpdate' follows non-static declaration
+src\gamelib\/gamelib.h:48: warning: previous declaration of 'KeyboardUpdate' was here
+src\gamelib\gamelib.c:88: warning: static declaration of 'KeyboardSetDelay' follows non-static declaration
+src\gamelib\/gamelib.h:49: warning: previous declaration of 'KeyboardSetDelay' was here
+src\gamelib\gamelib.c:92: warning: static declaration of 'VideoModeSetTitle' follows non-static declaration
+src\gamelib\/gamelib.h:52: warning: previous declaration of 'VideoModeSetTitle' was here
+src\gamelib\gamelib.c:96: warning: static declaration of 'VideoModeSetEx' follows non-static declaration
+src\gamelib\/gamelib.h:53: warning: previous declaration of 'VideoModeSetEx' was here
+src\gamelib\gamelib.c:147: warning: static declaration of 'VideoModeSet' follows non-static declaration
+src\gamelib\/gamelib.h:54: warning: previous declaration of 'VideoModeSet' was here
+src\gamelib\gamelib.c:155: warning: static declaration of 'VideoModeFrame' follows non-static declaration
+src\gamelib\/gamelib.h:55: warning: previous declaration of 'VideoModeFrame' was here
+src\gamelib\gamelib.c:173: warning: static declaration of 'VideoModeEnable2D' follows non-static declaration
+src\gamelib\/gamelib.h:56: warning: previous declaration of 'VideoModeEnable2D' was here
+src\gamelib\gamelib.c:193: warning: static declaration of 'VideoModeDisable2D' follows non-static declaration
+src\gamelib\/gamelib.h:57: warning: previous declaration of 'VideoModeDisable2D' was here
+src\gamelib\gamelib.c:197: warning: static declaration of 'VideoModeSetFPS' follows non-static declaration
+src\gamelib\/gamelib.h:58: warning: previous declaration of 'VideoModeSetFPS' was here
+src\gamelib\gamelib.c:202: warning: static declaration of 'VideoModeGetFPS' follows non-static declaration
+src\gamelib\/gamelib.h:59: warning: previous declaration of 'VideoModeGetFPS' was here
+src\gamelib\gamelib.c:209: warning: static declaration of 'ColorSet' follows non-static declaration
+src\gamelib\/gamelib.h:63: warning: previous declaration of 'ColorSet' was here
+src\gamelib\gamelib.c:223: warning: 'main' is normally a non-static function
+src\gamelib\gamelib.c:227: error: syntax error at end of input
+src\gamelib\gamelib.c:13: warning: unused variable `mouse'
+src\gamelib\gamelib.c:60: warning: unused variable `keydown'
+src\gamelib\gamelib.c:60: warning: unused variable `keydownp'
+src\gamelib\gamelib_font.c: In function `DrawRectangleFill':
+src\gamelib\gamelib_font.c:62: warning: static declaration of 'FontLoadFromStream' follows non-static declaration
+src\gamelib\/gamelib_font.h:11: warning: previous declaration of 'FontLoadFromStream' was here
+src\gamelib\gamelib_font.c:66: warning: static declaration of 'FontLoadFromMemory' follows non-static declaration
+src\gamelib\/gamelib_font.h:12: warning: previous declaration of 'FontLoadFromMemory' was here
+src\gamelib\gamelib_font.c:70: warning: static declaration of 'FontLoadFromFile' follows non-static declaration
+src\gamelib\/gamelib_font.h:13: warning: previous declaration of 'FontLoadFromFile' was here
+src\gamelib\gamelib_font.c:81: warning: static declaration of 'FontWidth' follows non-static declaration
+src\gamelib\/gamelib_font.h:16: warning: previous declaration of 'FontWidth' was here
+src\gamelib\gamelib_font.c:87: warning: static declaration of 'FontFree' follows non-static declaration
+src\gamelib\/gamelib_font.h:17: warning: previous declaration of 'FontFree' was here
+src\gamelib\gamelib_font.c:132: warning: static declaration of 'DrawFontText' follows non-static declaration
+src\gamelib\/gamelib_font.h:19: warning: previous declaration of 'DrawFontText' was here
+src\gamelib\gamelib_font.c:166: warning: static declaration of 'DrawFontTextf' follows non-static declaration
+src\gamelib\/gamelib_font.h:20: warning: previous declaration of 'DrawFontTextf' was here
+src\gamelib\gamelib_font.c:178: warning: static declaration of 'DrawFontSimpleShadow' follows non-static declaration
+src\gamelib\/gamelib_font.h:21: warning: previous declaration of 'DrawFontSimpleShadow' was here
+src\gamelib\gamelib_font.c:183: error: syntax error at end of input
+src\gamelib\/gamelib.h:29: warning: unused variable `_screen'
+src\gamelib\/gamelib.h:30: warning: unused variable `key'
+src\gamelib\/gamelib.h:31: warning: unused variable `keyv'
+src\gamelib\/gamelib.h:32: warning: unused variable `RequestExit'
+src\gamelib\/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\gamelib\/gamelib.h:34: warning: unused variable `FPS'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenWidth'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenHeight'
+src\gamelib\/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\gamelib\/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\gamelib\/gamelib.h:41: warning: unused variable `mouse'
+src\gamelib\gamelib_image.c: In function `ImageStartDrawing':
+src\gamelib\gamelib_image.c:96: warning: `return' with no value, in function returning non-void
+src\gamelib\gamelib_image.c: In function `DrawRectangleFill':
+src\gamelib\gamelib_image.c:379: warning: static declaration of 'DrawClear' follows non-static declaration
+src\gamelib\/gamelib.h:61: warning: previous declaration of 'DrawClear' was here
+src\gamelib\gamelib_image.c:381: error: syntax error at end of input
+src\gamelib\/gamelib.h:29: warning: unused variable `_screen'
+src\gamelib\/gamelib.h:30: warning: unused variable `key'
+src\gamelib\/gamelib.h:31: warning: unused variable `keyv'
+src\gamelib\/gamelib.h:32: warning: unused variable `RequestExit'
+src\gamelib\/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\gamelib\/gamelib.h:34: warning: unused variable `FPS'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenWidth'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenHeight'
+src\gamelib\/gamelib.h:41: warning: unused variable `mouse'
+src\gamelib\gamelib_internal.c: In function `DrawRectangleFill':
+src\gamelib\gamelib_internal.c:7: warning: static declaration of '__NextPowerOfTwo' follows non-static declaration
+src\gamelib\/gamelib_internal.h:7: warning: previous declaration of '__NextPowerOfTwo' was here
+src\gamelib\gamelib_internal.c:11: warning: static declaration of '__checkTexRectangle' follows non-static declaration
+src\gamelib\/gamelib_internal.h:4: warning: previous declaration of '__checkTexRectangle' was here
+src\gamelib\gamelib_internal.c:15: warning: static declaration of '__checkPow2' follows non-static declaration
+src\gamelib\/gamelib_internal.h:5: warning: previous declaration of '__checkPow2' was here
+src\gamelib\gamelib_internal.c:20: warning: static declaration of '__SDL_CreateRGBSurfaceForOpenGL' follows non-static declaration
+src\gamelib\/gamelib_internal.h:6: warning: previous declaration of '__SDL_CreateRGBSurfaceForOpenGL' was here
+src\gamelib\gamelib_internal.c:47: warning: static declaration of 'GamePrintError' follows non-static declaration
+src\gamelib\/gamelib_internal.h:8: warning: previous declaration of 'GamePrintError' was here
+src\gamelib\gamelib_internal.c:51: warning: static declaration of 'GamePrintFatalError' follows non-static declaration
+src\gamelib\/gamelib_internal.h:9: warning: previous declaration of 'GamePrintFatalError' was here
+src\gamelib\gamelib_internal.c:54: error: syntax error at end of input
+src\gamelib\/gamelib.h:29: warning: unused variable `_screen'
+src\gamelib\/gamelib.h:30: warning: unused variable `key'
+src\gamelib\/gamelib.h:31: warning: unused variable `keyv'
+src\gamelib\/gamelib.h:32: warning: unused variable `RequestExit'
+src\gamelib\/gamelib.h:33: warning: unused variable `AutoExitAtRequest'
+src\gamelib\/gamelib.h:34: warning: unused variable `FPS'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenWidth'
+src\gamelib\/gamelib.h:36: warning: unused variable `screenHeight'
+src\gamelib\/gamelib.h:37: warning: unused variable `screenWidthReal'
+src\gamelib\/gamelib.h:37: warning: unused variable `screenHeightReal'
+src\gamelib\/gamelib.h:41: warning: unused variable `mouse'
